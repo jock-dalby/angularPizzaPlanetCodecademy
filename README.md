@@ -1,3 +1,3 @@
 # angularPizzaPlanetCodecademy
 
-<img src="https://cloud.githubusercontent.com/assets/19864300/19023206/e90dd32a-8944-11e6-9641-9b2820965f14.png"/>
+<img src="https://cloud.githubusercontent.com/assets/19864300/19023213/332c8afa-8945-11e6-9c59-6cd341396571.png"/>
